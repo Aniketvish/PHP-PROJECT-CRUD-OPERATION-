@@ -1,2 +1,12 @@
 # PHP-PROJECT-CRUD-OPERATION-
-This Project implements CRUD (Create, Read, Update, Delete) operations for managing data. CRUD operations are fundamental in database and web development, allowing users to create new data, retrieve existing data, update data, and delete data as needed.
+Features
+Create: Users can create new records or entries in the database.
+Read: Users can retrieve data from the database based on specified criteria.
+Update: Users can modify existing data in the database.
+Delete: Users can remove data entries from the database.
+
+Technologies
+FrontEnd-  HTML,CSS,JAVASCRIPT
+Database - SQL
+Backend - PHP
+
